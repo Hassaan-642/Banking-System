@@ -1,1 +1,2 @@
-# Banking-System
+# Banking-System-in-C++
+This project comprises a comprehensive suite of classes designed to manage various financial services such as Checking and Savings accounts, alongside credit card entities like MasterCard and Visa. It ensures seamless user interaction and efficient transaction processing, optimizing speed and accuracy for reliable financial management. The system prioritizes data security with advanced measures to safeguard confidentiality, integrity, and availability, protecting financial information against unauthorized access and threats.
